@@ -22,7 +22,11 @@ I am a **M.Eng Mechatronics & Cyber-Physical Systems M.Sc. student** in Germany 
 - 🔬 **Simulation & Design:** Translating physical CAD models into accurate Gazebo and MATLAB/Simulink environments.
 - ⚡ **Engineering Philosophy:** Full-stack integration for faster debugging and seamless cross-subsystem hardware/software performance.
 
-### 🛠️ Core Tech Stack
-- **Robotics & Simulation:** ROS 2, Gazebo, RViz
-- **Control & Math:** MATLAB, Simulink
-- **Mechanical Design:** Siemens NX, SolidWorks
+## 🛠️ Core Tech Stack
+
+| Domain | Tools & Technologies |
+|---|---|
+| **Robotics & Embedded** | ROS 2 · SLAM · IoT Prototyping · Arduino |
+| **Simulation & Control** | MATLAB/Simulink · Gazebo |
+| **Programming** | Python · C++ · C · MATLAB |
+| **CAD & Design** | Siemens NX · SolidWorks · CATIA V5 · Blender |
