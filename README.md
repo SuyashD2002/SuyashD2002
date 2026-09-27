@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About Me 🧠
 
-I am a **Mechatronics & Cyber-Physical Systems M.Sc. student** in Germany with a foundational background in mechanical engineering. I bridge the gap between physical hardware and intelligent control software, moving fluidly across the full mechatronic stack to develop, simulate, and debug complex autonomous systems.
+I am a **M.Eng Mechatronics & Cyber-Physical Systems M.Sc. student** in Germany with a foundational background in mechanical engineering. I bridge the gap between physical hardware and intelligent control software, moving fluidly across the full mechatronic stack to develop, simulate, and debug complex autonomous systems.
 
 - 🤖 **Robotics Focus:** Multi-domain system modeling and cross-subsystem performance optimization.
 - 🔬 **Simulation & Design:** Translating physical CAD models into accurate Gazebo and MATLAB/Simulink environments.
